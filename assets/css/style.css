@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/ripples.png);
+}
+.navbar-brand{
+    color: #ffffff;
+    background: #4aaaa6;
+    padding: 15px;
+    font-size: 23px;
+    color: white !important;
+}
+ #collapse:{
+    justify-content: right;
+ }
+ 
+ .About{
+     color: #4aaaa6;
+ }
