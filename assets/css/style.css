@@ -1,4 +1,5 @@
 body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url(../images/ripples.png);
 }
 .navbar-brand{
@@ -14,4 +15,25 @@ body{
  
  .About{
      color: #4aaaa6;
+
+ }
+
+ h3{
+     position: absolute;
+     background: #4aaaa6;
+     color: #ffffff;
+     text-align: center;
+    float: inline-end;
+    
+ }
+ 
+    
+ 
+   
+   
+   
+  
+      
+}
+
  }
