@@ -34,31 +34,28 @@
 
     <div class="container mt-5 mb-5">
       <div class="bg-light p-4">
-          <h2 class="About">About Me </h2>
+          <h2 class="About">Contact </h2>
          <hr>
-          <div class="">
-            <div class="row">
-              <div class="col-lg-3 col-md-6 col-sm-6">
-                  <img src="assets/images/My-picture.jpg" width="200" height="200" alt="">
-              </div>
-              <div class="col-lg-9 col-md-6 col-sm-6">
-                  <p> Each time my friends ask me about my life course, I naturally answer them I'm from Burkina Faso(a country in west Africa)
-                      but I grow up in Togo which is my mother country.
-                      Growing up in Africa is still the best thing ever in my life.
-                     </p> <br>
-                     <p> In Togo we speak "Ewe" as native language and French is the official language.
-                      I'm more fluent in French and 4 others languages which are "Ewe", "kabye", "kotokoli", "ife".
-                      After my two years college degree in Business administration I worked for Cfao Motors for 6months and then for a company named Made in Togo before moving to America last year in 2018.</p>
-                      <p> <br>
-                      After one year thinking about what to do for a better living I decide to take courses for a computer science degree.
-                      I told a friend about it and he advises me to do a bootcamp he did himself. I start researching for it and finally I found Georgia Tech.
-                      I know it will be a hard challenge that I will have to face first of all because I'm not really good in English and second I never think about coding before.
-                      Now that I'm already in I better put all my energy into it to succeed. I'll be glad to graduate in this coding curses with some kind of knowledge. It's just the beginning. Let see what the future have for me.</p>
-    
-    
+         <form>
+            <div class="form-group">
+              <label for="formGroupExampleInput">Name</label>
+              <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Gisele Soubeiga">
+            </div>
+            <div class="form-group">
+              <label for="formGroupExampleInput2">Email</label>
+              <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="example@gmail.com">
+              <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="form_message">Message</label>
+                        <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                        <div class="help-block with-errors"></div>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-success mb-2">Submit</button>
                 </div>
             </div>
-              
+          </form>
 
              
           </div>
@@ -81,3 +78,4 @@
 
     
 </body>
+</html>
