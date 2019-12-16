@@ -1,4 +1,8 @@
 # MyboostrapPortfolio
+
+This bootstrap powered portfolio is the starting point upon which I plan to showcase some of my programing projects, accomplishments and collaborations. I hope to add substantial content to this page as i progress through my time in the Georgia TECH full-stack coding boot-camp.
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
