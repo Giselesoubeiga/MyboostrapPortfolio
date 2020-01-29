@@ -10,12 +10,17 @@ body{
     font-size: 23px;
     color: white !important;
     margin: -9px;
+    margin-left: 15px;
+}
+nav{
+    margin-bottom: 100px;
 }
 
 .imgProfile{
 
     float: left;
-    margin-right: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .footerline{
